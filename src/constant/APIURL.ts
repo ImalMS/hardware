@@ -1,0 +1,1 @@
+export const Root_URL = 'https://aws.erav.lk/everast/getprocess/';
